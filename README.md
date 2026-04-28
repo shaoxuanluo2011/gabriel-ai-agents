@@ -1,6 +1,8 @@
 # Gabriel's AI Agents
 
-A personal AI agent ecosystem built on [OpenClaw](https://openclaw.ai), running on a Mac Mini, integrating with WhatsApp, a financial dashboard, and NBA analytics.
+A personal AI agent ecosystem built on OpenClaw, running on a Mac Mini, integrating with WhatsApp, a financial dashboard, and NBA analytics.
+Drop me an email to obtain a username and password to access the demo account for the below URL - shaoxuanluo.2011@business.smu.edu.sg
+URL: sxluo-dashboard.com
 
 ## What This Is
 
